@@ -9,8 +9,7 @@ Chit-Chat is a real-time video conferencing and text messaging web application t
 - 💬 Real-time text messaging using **WebSockets**
 - 💡 Responsive UI built with **Tailwind CSS**
 - 🧠 Lightweight signaling server with **Node.js** and **Express.js**
-- 🔒 Room-based video chat support (optional to add)
-
+- 🔒 Room-based video chat support 
 ---
 
 ## 🛠️ Tech Stack
