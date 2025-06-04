@@ -27,7 +27,7 @@ Chit-Chat is a real-time video conferencing and text messaging web application t
 1. **Clone the repository**
    ```bash
    git clone https://github.com/anzer115/Chit-Chat-V2.git
-   cd chit-chat
+   cd Chit-Chat-V2
 
 2. **Install the Dependencies**
    ```bash
